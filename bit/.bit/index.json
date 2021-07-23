@@ -1,0 +1,37 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/card"
+      },
+      "isSymlink": true,
+      "hash": "ed61e861cd457fc2f8bbfe214c116b7a575b28bb"
+    },
+    {
+      "id": {
+        "scope": "acretelli.lamiui",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "6179754ba2897469717a2447c5d3935970afe3d9"
+    },
+    {
+      "id": {
+        "scope": "acretelli.lamiui",
+        "name": "ui/card"
+      },
+      "isSymlink": false,
+      "hash": "4c52e6160a463e5aa365519ac71c24ea8985ca5e"
+    }
+  ],
+  "lanes": []
+}

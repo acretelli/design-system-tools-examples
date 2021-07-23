@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "acretelli.lamiui",
+      "name": "ui/button"
+    },
+    "head": "6f63aa6075fea3d913605558dccaeac1865e882c"
+  },
+  {
+    "id": {
+      "scope": "acretelli.lamiui",
+      "name": "ui/card"
+    },
+    "head": "5a7f9d72cf8eb81d96eeff16e9d6d49aab83631b"
+  }
+]
